@@ -1,0 +1,25 @@
+generated: '2026-07-21'
+method: searched
+source: https://toothfairyapp.co.uk
+host: https://toothfairyapp.co.uk
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+- path: /robots.txt
+  status: 200
+notes: >-
+  Toothfairy (toothfairyapp.co.uk) is a consumer dental telehealth app with no
+  published well-known discovery surface. All probed discovery documents
+  returned 404; only /robots.txt is served.

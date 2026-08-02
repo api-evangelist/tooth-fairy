@@ -1,7 +1,23 @@
 aid: tooth-fairy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tooth-fairy.png
 name: Tooth Fairy
-description: Tooth Fairy is a company surfaced as a portfolio company of seedcamp and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Toothfairy is a UK dental telehealth platform billing itself as the world's
+  first dentist on-demand, pairing registered dentists with a consumer mobile app to
+  deliver teeth straightening with clear aligners, prescription teeth whitening, and
+  same-day emergency video dental consultations 24/7, plus employer dental plans for
+  businesses. The company is health-regulated in the UK, backed by Seedcamp, and ships
+  its product as iOS and Android apps with no public developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/tooth-fairy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +27,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Dental
+- Telehealth
+- Healthcare
+- Orthodontics
+- Mobile App
+- United Kingdom
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +44,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://toothfairyapp.co.uk
+  url: https://toothfairyapp.co.uk
+- type: DomainSecurity
+  url: security/tooth-fairy-domain-security.yml
+- type: LLMsTxt
+  url: llms/tooth-fairy-llms.txt
+- type: TermsOfService
+  url: https://toothfairyapp.co.uk/terms/
+- type: PrivacyPolicy
+  url: https://toothfairyapp.co.uk/privacy/
+- type: Support
+  url: https://toothfairyapp.co.uk/contact-us/
+- type: Blog
+  url: https://toothfairyapp.co.uk/knowledge/
+- type: Login
+  url: https://toothfairyapp.co.uk/members/
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

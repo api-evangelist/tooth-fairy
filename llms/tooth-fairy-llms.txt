@@ -1,0 +1,27 @@
+# Toothfairy
+
+> Toothfairy (toothfairyapp.co.uk) is a UK dental telehealth platform — "the world's first dentist on-demand" — combining registered dentists with a mobile app for teeth straightening with clear aligners, teeth whitening prescriptions, and same-day emergency video dental consultations, available 24/7 and health-regulated in the UK. Backed by Seedcamp. Toothfairy is a consumer mobile product and publishes no public developer API.
+
+## Product
+
+- [Toothfairy](https://toothfairyapp.co.uk/): Dentist on-demand — straightening, whitening, emergency dental care
+- [Teeth Straightening](https://toothfairyapp.co.uk/teeth-straightening/): Clear aligners with dental supervision
+- [Teeth Whitening](https://toothfairyapp.co.uk/teeth-whitening/): Prescription teeth whitening
+- [Emergency Dentist](https://toothfairyapp.co.uk/emergency-dentist/): Same-day video consultations
+- [For Business](https://toothfairyapp.co.uk/for-business/): Employer dental plans
+- [Our App](https://toothfairyapp.co.uk/our-app/): The Toothfairy mobile app
+- [iOS App](https://apps.apple.com/gb/app/tooth-fairy/id1542598398): Tooth Fairy on the App Store
+- [Android App](https://play.google.com/store/apps/details?id=com.app.toothfairy): Tooth Fairy on Google Play
+
+## Company
+
+- [Our Mission](https://toothfairyapp.co.uk/our-mission/): Company mission
+- [Knowledge Hub](https://toothfairyapp.co.uk/knowledge/): Dental health articles
+- [Contact Us](https://toothfairyapp.co.uk/contact-us/): Support contact
+- [Terms](https://toothfairyapp.co.uk/terms/): Terms of service
+- [Privacy](https://toothfairyapp.co.uk/privacy/): Privacy policy
+- [Complaints](https://toothfairyapp.co.uk/complaints/): Complaints procedure
+
+## APIs
+
+- No public API, developer portal, or machine-readable specifications are published by this provider.

@@ -2,14 +2,10 @@
   "repo": "tooth-fairy",
   "feeds": [
     {
-      "source": "https://toothfairyapp.co.uk/contact-us/feed/",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://toothfairyapp.co.uk/contact-us/",
       "error": "HTTPError"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-08-06T14:08:46Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }

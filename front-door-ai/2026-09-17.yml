@@ -1,0 +1,26 @@
+# Front Door AI Index — tooth-fairy — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: tooth-fairy
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: toothfairyapp.co.uk
+  final_host: www.toothfairyapp.co.uk
+  ownership: own
+  owner: tooth-fairy
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 8
+  host_score: 8
+  density: 3.29
+  words: 2429
+  tiers:
+    agentic: 0
+    core: 8
+    model: 0
+  ambiguous: 4
+  top_terms:
+    AI: 8
+    smart: 4
